@@ -1,0 +1,13 @@
+# MEANS THIS IS HEADER ONE (THE BIGGEST ONE)
+
+## the more sharp signs you add the smaller headers you get
+
+### just use a little bit of formatting
+
+[THIS IS A HYPER LINK](http:/youtube.com)
+
+`
+code code code
+`
+
+![hamster](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlqNHU2NHJvaGVlaGVscWpoYmlyNGk3MWRneXhuaGU1amVhNjdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDkwQeppxqUMw/giphy.gif)
