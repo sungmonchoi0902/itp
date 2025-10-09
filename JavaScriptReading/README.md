@@ -21,6 +21,3 @@
 
 #Something I didn’t know
 - I didn’t know that in JavaScript, functions are treated as values. They can be assigned to variables, stored in arrays or objects, and passed as arguments to other functions.
-
-
-
